@@ -1,0 +1,4 @@
+(executable
+ (public_name subdirs)
+ (name main)
+ (libraries subdirs))

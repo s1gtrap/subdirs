@@ -1,0 +1,5 @@
+# dune init project subdirs
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/s1g/Workspaces/BSc/subdirs
+# Auto-detected concurrency: 10
