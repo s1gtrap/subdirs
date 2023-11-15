@@ -1,0 +1,3 @@
+(executable
+ (name parent_module)
+ (modules parent_module))
